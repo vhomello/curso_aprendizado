@@ -1,5 +1,4 @@
 # Folders that Git should ignore
-
 /personal
 
 # Python stuff
@@ -38,3 +37,6 @@
 ##########
 *.pyc
 
+# mac #
+#######
+.DS_Store
