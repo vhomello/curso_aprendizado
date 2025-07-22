@@ -4,6 +4,7 @@
 # Python stuff
 *.ipynb_checkpoints/
 *.mypy_cache/
+.venv/
 
 # File extensions that Git should ignore
 
